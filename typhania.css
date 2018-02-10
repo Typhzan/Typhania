@@ -1,0 +1,28 @@
+ body {
+background-color: violet; 
+color: rgb(22, 48, 51);
+text-align: center;
+}
+h1 {
+	font-size: 60px;
+	font-family: script;
+
+}
+p {
+	font-size: 40px;
+	font-family: script;
+}
+h6 {
+	font-size: 30px;
+	font-family: script;
+}
+a: link {
+	text-decoration: box;
+
+}
+a:visited {
+	color: blue;
+}
+a:hover {
+	color: purple;
+}
